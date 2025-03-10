@@ -2,7 +2,7 @@
 content_type: page
 description: This section contains the course topics and their accompanying readings.
 draft: false
-file: /
+file: /courses/24-220-moral-psychology-spring-2024/readings
 title: Readings
 uid: 19498c97-52eb-45cb-8607-d188e29a14f0
 ---
