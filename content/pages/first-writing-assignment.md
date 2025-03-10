@@ -2,6 +2,7 @@
 content_type: page
 description: This section contains information on the first writing assignment.
 draft: false
+file: /
 title: First Writing Assignment
 uid: 0993d659-866c-4db8-8c79-7fd9d9010fa0
 ---
