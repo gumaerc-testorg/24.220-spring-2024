@@ -2,6 +2,7 @@
 content_type: page
 description: This section contains information on the course assignments.
 draft: false
+file: /
 title: Assignments
 uid: 414c6434-ab19-47c0-be7f-5d60f57a6294
 ---
