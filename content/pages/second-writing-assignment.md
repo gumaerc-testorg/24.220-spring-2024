@@ -2,7 +2,6 @@
 content_type: page
 description: This section contains information on the second writing assignment.
 draft: false
-file: /courses/24-220-moral-psychology-spring-2024/second-writing-assignment
 title: Second Writing Assignment
 uid: 063d5e01-ee17-4c06-afcc-eff095a6afcc
 ---
