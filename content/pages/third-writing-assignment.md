@@ -2,7 +2,6 @@
 content_type: page
 description: This section contains information on the third writing assignment.
 draft: false
-file: /courses/24-220-moral-psychology-spring-2024/third-writing-assignment
 title: Third Writing Assignment
 uid: da515f8f-a099-4cdd-ae5f-5b9e53a25320
 ---

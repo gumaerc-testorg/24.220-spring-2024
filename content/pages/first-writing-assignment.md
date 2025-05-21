@@ -2,7 +2,6 @@
 content_type: page
 description: This section contains information on the first writing assignment.
 draft: false
-file: /courses/24-220-moral-psychology-spring-2024/first-writing-assignment
 title: First Writing Assignment
 uid: 0993d659-866c-4db8-8c79-7fd9d9010fa0
 ---
