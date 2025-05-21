@@ -2,7 +2,6 @@
 content_type: page
 description: This section contains general information about the course.
 draft: false
-file: /courses/24-220-moral-psychology-spring-2024/syllabus
 title: Syllabus and Calendar
 uid: 509d6cde-e12e-4585-9b9c-da306ba835b0
 ---

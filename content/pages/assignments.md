@@ -2,7 +2,6 @@
 content_type: page
 description: This section contains information on the course assignments.
 draft: false
-file: /courses/24-220-moral-psychology-spring-2024/assignments
 title: Assignments
 uid: 414c6434-ab19-47c0-be7f-5d60f57a6294
 ---
