@@ -50,7 +50,7 @@ During class, I expect you to listen actively and to contribute regularly. I am 
 
 You will be required to complete 3 writing assignments over the course of the term. I will distribute prompts 10–14 days in advance of each assignment. In rare cases, you may write on a topic of your own, but only with my prior approval.
 
-If you would like writing support, I encourage you to contact the [MIT Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/). The WCC offers free, one-on-one professional advice from communication experts. The WCC also helps with non-native speaker issues, from writing and grammar to pronunciation and conversation practice. 
+If you would like writing support, I encourage you to contact the {{% resource_link "ec17fa1c-9230-4fb7-a3cf-8ba6db3a49f9" "MIT Writing and Communication Center" %}}. The WCC offers free, one-on-one professional advice from communication experts. The WCC also helps with non-native speaker issues, from writing and grammar to pronunciation and conversation practice. 
 
 For more detail on the papers, see the {{% resource_link "414c6434-ab19-47c0-be7f-5d60f57a6294" "Assignments" %}} section.
 
@@ -94,9 +94,9 @@ If you request an extension on a writing assignment more than 24 hours before th
 
 ### Plagiarism
 
-You may share ideas with others, but you must think and write for yourself. Plagiarism constitutes serious academic misconduct, and can have severe disciplinary consequences, even if it is unintentional. Please educate yourself about what constitutes plagiarism. The guidelines here, regarding quoting and paraphrasing, are especially relevant to this class: [Academic Integrity at MIT: A Handbook for Students](https://integrity.mit.edu/handbook/academic-writing/avoiding-plagiarism-paraphrasing).
+You may share ideas with others, but you must think and write for yourself. Plagiarism constitutes serious academic misconduct, and can have severe disciplinary consequences, even if it is unintentional. Please educate yourself about what constitutes plagiarism. The guidelines here, regarding quoting and paraphrasing, are especially relevant to this class: {{% resource_link "9e12b4b3-19ed-499f-a3db-3902fdda7b23" "Academic Integrity at MIT: A Handbook for Students" %}}.
 
-In this course, the use of [ChatGPT](https://chatgpt.com/) or any other generative artificial intelligence (AI) tools is prohibited. This prohibition applies to all stages of the work process, including preliminary ones.
+In this course, the use of {{% resource_link "347203a3-a4af-45b1-80e8-7aa6ff7971a7" "ChatGPT" %}} or any other generative artificial intelligence (AI) tools is prohibited. This prohibition applies to all stages of the work process, including preliminary ones.
 
 ## Calendar
 
